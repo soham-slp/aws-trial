@@ -1,0 +1,4 @@
+backend/env
+backend/build
+*/node_modules/
+backend/vars
